@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+bin/
+obj/
+
+# TypeScript output
+*.js
+*.js.map
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+package-lock.json
+
+# Project files
+*.suo
+*.user
+*.suo
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# C# generated files
+*.g.cs
+*.generated.cs
+
+# TypeScript compiled files
+*.d.ts
+
+# IDE specific
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Additional specific files to ignore
+*.log
+*.tmp
